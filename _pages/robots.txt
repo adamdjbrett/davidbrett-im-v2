@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /robots.txt
+---
+User-Agent: *
+Disallow: /cgi-bin
+
+Sitemap: http://davidbrett.im/sitemap.xml

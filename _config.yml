@@ -1,6 +1,10 @@
 # Set theme
 theme: alembic-jekyll-theme
 
+# File includes
+include:
+  - _pages
+  
 # File excludes
 exclude:
 - README.md

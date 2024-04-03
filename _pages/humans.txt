@@ -1,0 +1,49 @@
+---
+layout: null
+permalink: /humans.txt
+---
+/* TEAM */
+	Author: David J. Brett
+	Contact: djb [at] davidbrett.im
+	twitter: @pastordavbrett
+	Web: DavidBrett.im
+	From: Central Florida
+
+	Webmaster: Adam DJ Brett
+	Contact: adam [at] adamdjbrett.com
+	Twitter: @__adjb
+	Web: Adamdjbrett.com | adamdj.tel
+	From: Syracuse University, Syracuse, NY
+
+
+
+/* THANKS */
+
+	Theme: Alembic Theme
+	Author: David Darnes
+	Web: darn.es
+	Twitter: @daviddarnes
+
+
+/* Credits */
+
+	Demo Images:
+		Unsplash (unsplash.com)
+		Drafting instruments on top of table (Photo by Fleur on Unsplash)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		CSS3 Pie (css3pie.com)
+		Respond.js (j.mp/respondjs)
+		Scrollex (@ajlkn)
+		Skel (skel.io)
+
+/* SITE */
+	Last update: 2020-03-24
+	Language: English
+	Doctype:HTML5/CSS3
+	IDE: Sublime Text, TextWrangler
