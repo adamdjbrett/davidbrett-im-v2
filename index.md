@@ -1,6 +1,6 @@
 ---
-title: Engaging postmodern culture and the church.
 layout: page
+title: Engaging postmodern culture and the church.
 feature_image: "/images/unsplash/fleur-dQf7RZhMOJU-unsplash.jpg"
 feature_text: |
   ## David J. Brett
