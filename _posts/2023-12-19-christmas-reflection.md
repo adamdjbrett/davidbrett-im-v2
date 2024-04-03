@@ -1,6 +1,5 @@
 ---
 title: "A Christmas Reflection"
-description: "I love Christmas. It can bring out the best in most people. Most people are friendlier. More generous. Kinder. To me Christmas brings back incredible memories of growing up as a kid in NE Ohio. Snow on the ground. Fire in the fireplace. Mom cooking all kinds of stuff in the kitchen. The tree. And most importantly the gifts under the tree with my name. The suspense would almost be unbearable. When no one was looking I would find the gifts with my name. I would shake'em. Squeeze them. Try to figure out what was inside. It rarely worked."
 categories:
 - devotion
 feature_image: /images/ben-white-1ujXUwqLfO8-unsplash.jpg

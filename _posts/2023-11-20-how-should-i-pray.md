@@ -1,6 +1,5 @@
 ---
 title: "How Should I Pray"
-description: "Jesus is teaching his disciples to pray. It is interesting to note that in Luke's account of this teaching. He has the disciples asking Jesus to teach them to pray. The disciples saw Jesus do a lot of things. Open blinded eyes. Give hearing back to the deaf. Enable the lame to walk. Take five loaves and two fish and feed thousands. And yet they ask Jesus to teach them to pray."
 categories:
 - devotion
 ---

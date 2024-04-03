@@ -1,6 +1,5 @@
 ---
 title: "The Name of God"
-description: "Today as we pray for those who don't yet know Him -- pray that their minds, their hearts, their souls, become open to the God who gives them breath to breathe, eyes to see, and ears to hear the wonder and the beauty of His creation."
 categories:
 - devotion
 ---

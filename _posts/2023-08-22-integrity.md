@@ -1,10 +1,6 @@
 ---
-layout: post
 feature_image: /assets/brett-jordan-pd3ml1yrplg-unsplash.jpg
 title: Integrity
-description: In the words of my mouth and not just the meditations of my heart.
-  That to me is the definition of integrity. Actions matching beliefs. Matching
-  values. Matching the person of Jesus.
 categories: "Devotion "
 ---
 > This is how we know what love is: Jesus Christ laid down his life for us. And we ought to lay down our lives for our brothers and sisters. If anyone has material possessions and sees a brother or sister in need but has no pity on them, how can the love of God be in that person? Dear children, let us not love with words or speech but with actions and in truth. ~ 1 John 3:16-18

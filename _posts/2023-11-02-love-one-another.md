@@ -1,6 +1,5 @@
 ---
 title: "Loving one another"
-description: "Somewhere along the way we lost sight of loving another as Christ loves us."
 categories:
 - devotion
 ---

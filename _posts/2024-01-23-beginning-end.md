@@ -1,6 +1,5 @@
 ---
 title: "It is the beginning of the end"
-description: "The forces of evil are assembling to take out Jesus. To have him crucified on a cross, a tree. Jesus knows his time on earth is limited. The plan of redemption, the plan put in place before the foundation of the world is moving ahead. This plan would be brutal."
 categories:
 - devotion
 ---

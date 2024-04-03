@@ -1,6 +1,5 @@
 ---
 title: "Romans 16"
-description: "Paul is completing his letter to the church at Rome. This letter from Paul is one of the most influential pieces of literature in the world of theology."
 categories:
 - devotion
 ---

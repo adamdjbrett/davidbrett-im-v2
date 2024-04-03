@@ -1,6 +1,5 @@
 ---
 title: "Listening to Parables"
-description: "Jesus had no patience for religious people who arrogantly and self-righteously placed themselves above others.  Religious people who saw themselves with all the answers and despising anyone who asked any of the questions. Religious people who reduced a relationship with God down to a check list. Do this and this and don't do these things over here and you will be in great shape."
 categories:
 - devotion
 ---

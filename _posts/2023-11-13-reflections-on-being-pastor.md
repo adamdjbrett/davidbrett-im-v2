@@ -1,6 +1,5 @@
 ---
 title: "Reflections on Being a Pastor"
-description: "I am a pastor. I didn't ask to be a pastor. Church work did not have a table when we had Vocation Day in high school. Being a pastor is something God calls you to do. God called me to be a pastor. I went to school to learn the how's of pastoring. I received an excellent education. I learned to exegete the Scriptures. Set up church systems. Classes on counseling. Pastoral care. I had a class on Church Growth. I truly appreciate the education I received. I encourage others to place themselves in such an environment. It has truly helped me."
 categories:
 - devotion
 ---

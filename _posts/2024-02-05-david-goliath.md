@@ -1,6 +1,5 @@
 ---
 title: "David and Goliath"
-description: "Once long ago in the land of Israel there was a dad with eight sons. This dad loved his sons and was very proud of them. The three oldest sons: Eliab, Abinadab, and Shammah, went to fight in the army of King Saul. They went to fight their arch rivalry the Philistines."
 categories:
 - devotion
 ---

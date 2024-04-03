@@ -3,8 +3,6 @@ title: "Wednesday of Holy Week"
 categories:
 - devotion
 ---
-
-
 **This is the week that we remember the last week of Jesus' life. Wednesday.** N.T Wright once wrote, "When Jesus wanted to explain to his disciples what his forthcoming death was all about, he didn't give them a theory, he gave them a meal."
 
 The gospel writer Luke quotes Jesus, "I have earnestly desired to eat this Passover with you before I suffer." The two words "earnestly desired" stand out to me. The two words express an intense longing. Jesus is basically saying that on his last night on earth, he wants to be around his friends. He wants to sit and have a meal with his closest associates. He wants to share this moment together.

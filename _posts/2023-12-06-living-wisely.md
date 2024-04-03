@@ -1,6 +1,5 @@
 ---
 title: "Living Wisely"
-description: " My prayer is to live wisely and not unwisely. My heart's desire is to make the most of every opportunity. My prayer is to be vigilant regarding the evil around me and to be aware how it paints itself in such an appealing fashion."
 categories:
 - devotion
 ---

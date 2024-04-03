@@ -1,6 +1,5 @@
 ---
 title: "Reflections on being a pastor"
-description: "Ministry is an unusual vocation. It will stretch you. It will humble you. You will have times of great clarity into the human condition. You will experience times of great mystery about life and people and why they do what they do and why I do what I do."
 categories:
 - devotion
 ---
