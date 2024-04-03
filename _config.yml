@@ -32,6 +32,12 @@ title: 'David J. Brett'
 description: 'Pastor, Chaplain, & Carpenter'
 permalink: pretty
 logo: "/images/djb-blue-rev2.svg"
+social:
+  name: "David J. Brett"
+  links:
+    - https://www.linkedin.com/in/davbrett/
+    - https://leeuniversity.academia.edu/DavidBrett
+    - https://www.facebook.com/david.brett.9275
 
 
 # Pagination
