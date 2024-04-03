@@ -26,7 +26,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://davidbrett.im'
+url: 'https://www.davidbrett.im'
 baseurl: ''
 title: 'David J. Brett'
 description: 'Pastor, Chaplain, & Carpenter'
