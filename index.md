@@ -1,6 +1,6 @@
 ---
 title: Engaging postmodern culture and the church.
-feature_image: "/images/unsplash/benjamin-thomas-idEEZ-wQkfA-unsplash.jpg"
+feature_image: "/images/unsplash/austin-ramsey-IvzvlKQwjk8-unsplash.jpg"
 feature_text: |
   ## David J. Brett
   A pastor serving in the Villages of Florida
