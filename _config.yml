@@ -1,6 +1,7 @@
 # Set theme
 theme: alembic-jekyll-theme
 
+
 # File includes
 include:
   - _pages
@@ -30,7 +31,8 @@ baseurl: ''
 title: 'David J. Brett'
 description: 'Pastor, Chaplain, & Carpenter'
 permalink: pretty
-logo: "/images/djb-blue.svg"
+logo: "/images/djb-blue-rev2.svg"
+
 
 # Pagination
 paginate: 5
