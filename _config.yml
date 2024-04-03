@@ -31,7 +31,7 @@ baseurl: ''
 title: 'David J. Brett'
 description: 'Pastor, Chaplain, & Carpenter'
 permalink: pretty
-logo: "/images/djb-blue-rev2.svg"
+logo: "/images/djb-blue.png"
 social:
   name: "David J. Brett"
   links:
@@ -80,9 +80,11 @@ defaults:
       type: "posts"
     values:
       layout: post # Set the default layout for posts
+      image: "/images/unsplash/fleur-dQf7RZhMOJU-unsplash.jpg" # default social posts image
   -
     scope:
       path: ""
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+      image: "/images/unsplash/fleur-dQf7RZhMOJU-unsplash.jpg" # default social posts image

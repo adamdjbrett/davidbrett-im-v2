@@ -3,6 +3,7 @@ title: Preaching style
 categories:
 - Preaching
 feature_image: "/images/History-Makers-06-min.jpg"
+image: "/images/History-Makers-06-min.jpg"
 ---
 David J. Brett throughly enjoys any opportunity to teach, especially in churches, colleges, and in chaplaincy settings. He thrives on connecting with people and encouraging them to think through the lives that they are constructing for themselves.
   
