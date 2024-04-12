@@ -14,3 +14,5 @@ Family is the first place that we belong. Although we have been given the freedo
 I would also want to note that the church is emblematic of family. It is the family of the redeemed. It is a place to belong. To be accepted. A safe place to go to and be part of when life falls apart. It is a place of healing when your earthly family falls apart or is toxic and not good for your soul. In this family, the family of God, we all have the same older brother -- Jesus. He looks out for us. He is there for us. He sends the Holy Spirit to help and walk beside us throughout life.
 
 Lord Jesus I am struck with a sense of awe that I get to be part of the family of God. That I have brothers and sisters around the world that are my "blood relatives" through Jesus Christ my Lord. Help me to do a better job of introducing this family to those who are not part of it -- yet. In Jesus name, amen.
+
+ 
