@@ -3,6 +3,7 @@ title: "Hard Pressed but not Crushed"
 categories:
 - devotion
 ---
+
 > *We have this treasure in jars of clay to show that this all-surpassing power is from God and not from us. We are hard pressed on every side, but not crushed; perplexed, but not in despair; persecuted, but not abandoned; struck down, but not destroyed. We always carry around in our body the death of Jesus, so that the life of Jesus may also be revealed in our body.*
 >~ 2 Corinthians 4:7-10
 

@@ -3,6 +3,7 @@ title: "A Word on Worship"
 categories:
 - devotion
 ---
+
 > While he was in Bethany, reclining at the table in the home of Simon the Leper, a woman came with an alabaster jar of very expensive perfume, made of pure nard. She broke the jar and poured the perfume on his head. Some of those present were saying indignantly to one another, "Why this waste of perfume? It could have been sold for more than a year's wages and the money given to the poor." And they rebuked her harshly.
 >
 > "Leave her alone,"* said Jesus. "Why are you bothering her? She has done a beautiful thing to me. The poor you will always have with you, and you can help them any time you want. But you will not always have me. She did what she could. She poured perfume on my body beforehand to prepare for my burial. Truly I tell you, wherever the gospel is preached throughout the world, what she has done will also be told, in memory of her."

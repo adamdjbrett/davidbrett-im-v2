@@ -3,6 +3,7 @@ title: "Family Devotion"
 categories:
 - devotion
 ---
+
 > *These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun, Dan, Joseph, Benjamin, Naphtali, Gad and Asher*. ~ 1 Chronicles 2:1-2
 
 It is so interesting to note that throughout the Bible we read chapters that describe who is related to who. In some cases it is a long list and goes back many generations. In Matthew 1 we read the lineage of Jesus. This list goes back all the way to Abraham, and then in Luke 3 the lineage of Jesus goes all the way back to Adam.
