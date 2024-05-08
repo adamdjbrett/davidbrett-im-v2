@@ -38,7 +38,7 @@ We live in the middle. But just in case you haven't noticed there is a lack of 
 
 As a follower of Jesus, we end up in the middle and we get to speak hope, purpose, and meaning into the uncertainty, ambiguity of life because everyone else around us is living in the middle. Hopefully we get to a point where others may see God's peace and wholeness. And to see it prevails in the lives around us. God is shaping us to serve him today and tomorrow and for all eternity. God has a plan. A purpose. For us in this period of time for such a time as this.
 
-Some of the above material was adapted from and inspired by Wynand DeKock, On Being in the Middle.
+Some of the above material was adapted from and inspired by Wynand DeKock, [*On Being in the Middle*](https://wipfandstock.com/9781666706161/on-being-in-the-middle/).
 
 ***
 Photo by <a href="https://unsplash.com/@andriklangfield?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andrik Langfield</a> on <a href="https://unsplash.com/photos/person-sitting-by-the-table-opening-book-1-YQiOijio8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
