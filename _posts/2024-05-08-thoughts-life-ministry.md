@@ -5,6 +5,7 @@ categories:
 feature_image: "/images/unsplash/andrik-langfield-1-YQiOijio8-unsplash.jpg"
 image: "/images/unsplash/andrik-langfield-1-YQiOijio8-unsplash.jpg"
 ---
+
 I am a pastor. It is both my vocation, and it is my life's calling. I would say that it is who I am. I would say that you don't choose to pastor because if you do you won't last long at it. It is not like when you were in high school and they had a Career Day so you walk in the gym and see the pastor table and think "that looks like a lot of fun."
 
 Pastoring calls you. It works best that way because it is just so challenging, hard, and at times discouraging. Pastoring is a burden but it is also a great blessing. I love what I do. I have tried to walk away from it but just keeps calling me back. It is like a fire burning in my bones. A fire that I cannot extinguish.
