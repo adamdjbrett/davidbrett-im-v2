@@ -6,6 +6,8 @@ categories:
 
 > Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?” Jesus answered, “I tell you, not seven times, but seventy-seven times. ~ Matthew 18:21-22 & 34-35
 
+* * *
+
 It seems that the issue of forgiveness keeps coming up in the teachings of Jesus. We see it in the Lord’s Prayer. We hear it when a man is lowered in front of Jesus in a home for healing and Jesus forgives his sins. This time Simon Peter comes to Jesus and asks if forgiving someone seven times is adequate and Jesus says, not seven but seventy-seven times. Jesus then goes on and tells the story of an unmerciful servant who gets forgiven of much but is unwilling to forgive a fellow servant of just a little.
 
 Jesus concludes the story with these words. The king who offered the initial forgiveness says to the unmerciful one: *Shouldn’t you have had mercy on your fellow servant just as I had on you?’ In anger his master handed him over to the jailers to be tortured, until he should pay back all he owed.  “This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”*
