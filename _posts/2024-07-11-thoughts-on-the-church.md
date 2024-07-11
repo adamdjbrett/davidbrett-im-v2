@@ -1,3 +1,4 @@
+---
 title: "Thoughts on the Church"
 categories:
 - devotion
