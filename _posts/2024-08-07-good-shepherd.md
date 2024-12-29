@@ -6,7 +6,6 @@ categories:
 > I am the good shepherd; I know my sheep and my sheep know me --- just as the Father knows me and I know the Father---and I lay down my life for the sheep. I have other sheep that are not of this sheep pen. I must bring them also. They too will listen to my voice, and there shall be one flock and one shepherd. ~John 10:14-16
 
 * * *
-
 Jesus describes himself as the good shepherd. The first century was an agrarian culture. Sheep. Cattle. Livestock. Were a common part of everyday living. When Jesus describes himself as the shepherd his listeners would know exactly what he meant. They could visualize the sheep, the flock, the shepherd and even a sheep dog or two.
 
 Jesus says that he is willing to lay down his life for his sheep. It is also interesting to note that Jesus mentions that he has sheep from another pen and that he was bringing them over to his flock. He was working on having one flock with one shepherd.

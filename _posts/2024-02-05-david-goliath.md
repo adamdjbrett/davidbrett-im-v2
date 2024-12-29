@@ -3,9 +3,8 @@ title: "David and Goliath"
 categories:
 - devotion
 ---
-
 > *David said to the Philistine, "You come against me with sword and spear and javelin, but I come against you in the name of the **Lord** Almighty, the God of the armies of Israel, whom you have defied. This day the **Lord** will deliver you into my hands, and I'll strike you down and cut off your head. This very day I will give the carcasses of the Philistine army to the birds and the wild animals, and the whole world will know that there is a God in Israel. All those gathered here will know that it is not by sword or spear that the **Lord** saves; for the battle is the **Lord**'s, and he will give all of you into our hands*." ~ 1 Samuel 17:45-47
-
+* * *
 Once long ago in the land of Israel there was a dad with eight sons. This dad loved his sons and was very proud of them. The three oldest sons: Eliab, Abinadab, and Shammah, went to fight in the army of King Saul. They went to fight their arch rivalry the Philistines.
 
 One morning Jesse goes to the youngest son, David, and gives him the assignment of taking some food to his sons fighting against the dreaded Philistines. David takes the food to his brothers. When he arrives, the armies are about to face off. But instead of the armies clashing in battle, David hears this one warrior challenging the army of Saul. He looks out on the battlefield and sees Goliath standing there in all his warrior regalia. Eight feet tall. Clothed in armor. Bronze helmet. Sword. Javelin. He even has a shield bearer. He tells the army of Saul, (my words) "Let's settle this the old-fashioned way. You send out your best warrior and we will fight one-on-one. Winner take all.

@@ -3,10 +3,8 @@ title: "Loving one another"
 categories:
 - devotion
 ---
-November 2 2023
-
 > "The most important one,"* answered Jesus, "is this: 'Hear, O Israel: The Lord our God, the Lord is one. Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.' The second is this: 'Love your neighbor as yourself.' There is no commandment greater than these." ~ *ark 12:29-31
-
+* * *
 A brilliant teacher of the law asked Jesus the greatest of all the commandments. Jesus replied with the above answer. He concludes his observation with the statement, "*There is no commandment greater than these."* In another place of the gospels he says, "*The entire law and all the demands of the prophets are based on these two commandments*."
 
 It is amazing to me that as I look at American Christianity what divides us is more obvious than what unites us. For example:

@@ -3,8 +3,8 @@ title: "Fresh Baked Bread"
 categories:
 - devotion
 ---
-
 I love the smell of fresh baked bread. Wanda went through a period where she had a "bread" machine. I loved it when she baked bread. The aroma just permeated the house. The aroma would bring back some very good memories.
+* * *
 
 **It is interesting to note that bread has a prominent place in the bible. In Genesis 18 Abraham shares bread with three angelic visitors.**
 

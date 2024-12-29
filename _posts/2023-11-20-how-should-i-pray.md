@@ -3,8 +3,7 @@ title: "How Should I Pray"
 categories:
 - devotion
 ---
-
-This, then, is how you should pray:
+> This, then, is how you should pray:
 > Our Father in heaven, hallowed be your name,
 > your kingdom come, your will be done,
 > on earth as it is in heaven.
@@ -14,7 +13,7 @@ This, then, is how you should pray:
 > And lead us not into temptation,
 > but deliver us from the evil one.
 > Matthew 6:9-13
-
+* * *
 Jesus is teaching his disciples to pray. It is interesting to note that in Luke's account of this teaching. He has the disciples asking Jesus to teach them to pray. The disciples saw Jesus do a lot of things. Open blinded eyes. Give hearing back to the deaf. Enable the lame to walk. Take five loaves and two fish and feed thousands. And yet they ask Jesus to teach them to pray.
 
 Jesus starts his teaching with the acknowledgement of an essential element of God -- He is our Father in heaven. His name reflects his essence. He is pure, holy, just, and he is loving. He deserves our worship and our complete devotion. The phrase that sticks out in my mind today is "*forgive us our debts as we forgive our debtors*."

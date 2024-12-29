@@ -4,7 +4,7 @@ categories:
 - devotion
 ---
 > *And I tell you that you are Peter and on this rock, I will build my church, and the gates of Hades will not overcome it. I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven*." ~ Matthew 16:18-19
-  
+* * *
 Last Sunday I spoke about the church. Ever since then this idea of church has been resonating in my heart and soul. The church. There are a variety of ways to describe the church. You can describe it as: The House of God, The House of Prayer, The Father's House, and many other descriptors. The one description I find most compelling is FAMILY. The family of God. God is our Father. And Jesus is my elder brother. 
   
 I appreciate the family I grew up in. I am one of nine children that was raise Catholic in North East Ohio. I have five sisters and three brothers. My older brother is Danny. At times we would fight, wrestle in the house, get upset with one another. But outside the house we would look out for one another. Danny did at times look out for me. He stood up for me on a number of occasions. One occasion stands out as I type this devotion.

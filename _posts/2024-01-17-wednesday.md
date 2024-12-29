@@ -3,12 +3,11 @@ title: "Listening to Parables"
 categories:
 - devotion
 ---
-
 > *To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable:** "Two men went up to the temple to pray, one a Pharisee and the other a tax collector. The Pharisee stood by himself and prayed: 'God, I thank you that I am not like other people---robbers, evildoers, adulterers---or even like this tax collector. I fast twice a week and give a tenth of all I get.'*
 >
 > *"But the tax collector stood at a distance. He would not even look up to heaven, but beat his breast and said, 'God, have mercy on me, a sinner*.'
 > ~ Luke 18:9-13
-
+* * *
 The first sentence of this paragraph sets the context so very well. Listen to it again, *To some who were confident of their own righteousness and looked down on everyone else, Jesus told this parable:*
 
 Jesus had no patience for religious people who arrogantly and self-righteously placed themselves above others.  Religious people who saw themselves with all the answers and despising anyone who asked any of the questions. Religious people who reduced a relationship with God down to a check list. Do this and this and don't do these things over here and you will be in great shape.

@@ -4,6 +4,7 @@ categories:
 - devotion
 ---
 > *I tell you that you are Peter, and on this rock, I will build my church, and the gates of Hades will not overcome it. I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."* ~ Matthew 16:18-20
+* * *
 
 I believe in the church. I believe in its mission. Its purpose. Its plan to change the world. I have seen the church at its best in reaching people and changing lives. Transforming people. Reconciling people to God. Bringing marriages and families back to one another. Healing the broken heart. Setting people free from hurts, habits and hangups that imprisoned folks. I have seen what the gospel can do when it is embraced and lived out.
 

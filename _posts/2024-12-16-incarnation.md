@@ -4,7 +4,8 @@ categories:
 - devotion
 ---
 > Every high priest is selected from among the people and is appointed to represent the people in matters related to God, to offer gifts and sacrifices for sins. He is able to deal gently with those who are ignorant and are going astray, since he himself is subject to weakness. This is why he has to offer sacrifices for his own sins, as well as for the sins of the people. ~ Hebrews 5:1-3
- 
+* * * 
+
 The writer of Hebrews is explaining the duties and calling of the high priest to his readers. He is selected from among the people. He is to offer gifts and sacrifices for sins. He is able to deal gently with those who are ignorant and taking detours in life. He is like us.
  
 The writer is describing Jesus. Jesus came from among us. He was one of us. He came into this world like everyone else. As a baby he was dependent on Mary and Joseph for all the things a baby needs. And yet he was God with us. God incarnate. That simple sentence stretches the limits of human vocabulary and my imagination to wrap my mind around it. I want to drill deep into the how of it all. But I don’t think I will ever be able to completely understand it until that day I stand before him and say thank you.

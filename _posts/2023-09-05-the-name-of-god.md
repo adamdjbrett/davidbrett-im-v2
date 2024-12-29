@@ -4,6 +4,7 @@ categories:
 - devotion
 ---
 > *But Moses said to God, "Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?"*
+<!-- more -->
 > 
 > **^12 ^***And God said, "I will be with you. And this will be the sign to you that it is I who have sent you: When you have brought the people out of Egypt, you will worship God on this mountain."*
 > 

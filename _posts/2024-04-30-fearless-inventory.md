@@ -3,7 +3,6 @@ title: "Fearless Inventory"
 categories:
 - devotion
 ---
-
 > Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?” Jesus answered, “I tell you, not seven times, but seventy-seven times. ~ Matthew 18:21-22 & 34-35
 
 * * *

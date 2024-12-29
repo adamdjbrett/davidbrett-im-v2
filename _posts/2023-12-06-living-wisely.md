@@ -3,9 +3,8 @@ title: "Living Wisely"
 categories:
 - devotion
 ---
-
 > *Be very careful, then, how you live---not as unwise but as wise, making the most of every opportunity, because the days are evil. Therefore, do not be foolish, but understand what the Lord's will is. Do not get drunk on wine, which leads to debauchery. Instead, be filled with the Spirit...* ~ Ephesians 5:15-20
-
+* * *
 Paul loves the people in church at Ephesus. He is speaking to them in the way a father speaks to his son or his daughter. Be careful how you live. Make the most of every opportunity. Don't be foolish. Don't get drunk on wine. Be filled with the Holy Spirit.
 
 We all need people in our lives who will call out the best in us and remind us how to live. We need people who will see the potential we have and challenge us to pursue and not settle for less than.  The culture around us continues to call us to live less than. Take it easy. Indulge. Taste and see the pleasures available to you. Don't worry be happy. I would simply note that the lure of sin is so appealing. It promises so much and delivers so little. With one exception -- guilt and shame. Sin delivers those two cousins in abundance and with overwhelming force.

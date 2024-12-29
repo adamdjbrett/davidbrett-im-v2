@@ -4,7 +4,7 @@ categories:
 - devotion
 ---
 > I, Tertius, who wrote down this letter, greet you in the Lord. Romans 16:22
-
+* * *
 Paul is completing his letter to the church at Rome. This letter from Paul is one of the most influential pieces of literature in the world of theology. It is second only to the gospels of Jesus. And it should be noted that it was written because of the influence of Jesus on the life of the apostle Paul. This letter to the Romans was catalytic in the life of Augustine, Luther, Calvin, Wesley, Karl Barth and many more. The content of this letter unpacks both the implications of and the application of the gospel of Jesus. A pastor I heard of decided to preach through the book of Romans. He preached verse by verse. It took him seven years. He spent one entire year in just chapters 7-8. It is interesting to note that most pastors, teachers of the Bible focus on the content of chapters 1-15. These chapters are very rich in biblical truth and theology. I would note those chapters deserve that kind of attention but be careful you don't gloss over Romans 16. Romans 16 is theologically significant as well.
 
 Romans is one of the most preached on books of the Bible, but Romans 16 is the least preached on chapter in the entire book of Romans. Andy Crouch called Romans 16 "The most sociologically stunning chapter of the entire Bible." When you read chapter 16 you read Paul greeting people. He is connecting with a wide range of people. Greeks, Romans, men, women, people in high standing, people of low status and people in between those artificial human categories.
